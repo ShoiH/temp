@@ -5,8 +5,8 @@ body {
     margin: 0;
 }
 
-h1,h2,h3,h4,h5{
-    margin:0 0 10px 0;
+h1,h2,h3,h4,h5 {
+    margin: 0 0 10px 0;
     padding: 0;
 }
 
@@ -25,21 +25,21 @@ header {
     text-align: center;
 }
 
-.logo{
+.logo {
     font-size: 32px;
 }
 
-.text-sub{
+.text-sub {
     color: #777;
 }
 
-.header-navigation{
+.header-navigation {
     width: 100%;
     background-color: #333333;
     padding: 20px 0;
 }
 
-.header-navigation:after{
+.header-navigation:after {
     clear: both;
     display: block;
     content: "";
@@ -64,49 +64,49 @@ header {
     margin-bottom: 20px;
 }
 
-.card-contents{
+.card-contents {
     padding: 0px;
     display: block;
     margin-bottom: 20px;
     background-color: #fff;
 }
 
-.left-contents{
+.left-contents {
     width: 600px;
     margin-right: 20px;
     float: left;
 }
 
-.right-contents{
+.right-contents {
     width: 300px;
     float: left;
 }
 
-.article-list-area:after{
+.article-list-area:after {
     clear: both;
     display: block;
     content: " ";
 }
 
-.article-list{
+.article-list {
     width: 600px;
     margin-right: 35px;
     float: left;
     word-break: break-all;
 }
 
-.article-list-small{
+.article-list-small {
     width: 300px;
     margin-right: 35px;
     float: left;
     word-break: break-all;
 }
 
-.article-list:last-child{
+.article-list:last-child {
     margin-right: 0;
 }
 
-.article-image{
+.article-image {
     margin: 10px;
     width: 150px;
     height: 150px;
@@ -116,7 +116,7 @@ header {
     border-style: inset;
 }
 
-.article-image-small{
+.article-image-small {
     margin: 10px;
     width: 50px;
     height: 50px;
@@ -126,37 +126,37 @@ header {
     border-style: inset;
 }
 
-.article-description{
+.article-description {
     text-align: left;
 }
 
-.article-title{
+.article-title {
     text-align: left;
     font-size: 24px;
 }
 
-.article-title-small{
+.article-title-small {
     text-align: left;
     font-size: 10px;
 }
 
-.copyright{
+.copyright {
     color: #777;
     text-align: center;
 }
 
-.main::after{
+.main::after {
     clear: both;
     display: block;
     content: "";
 }
 
-hr{
+hr {
     width: 900px;
     border-style: groove;
 }
 
-.hr-small{
+.hr-small {
     width: 300px;
     border-style: groove;
 }
