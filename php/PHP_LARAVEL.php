@@ -267,7 +267,7 @@ class Number04
 
         echo $this->Times($array).PHP_EOL;
         echo PHP_EOL;
-        echo $this->Arrays_Max($this->CreateTestArray($array)).PHP_EOL;
+        echo $this->Arrays_Max($this->CreateTestArray()).PHP_EOL;
         echo PHP_EOL;
         echo $this->BuiltInFunc().PHP_EOL;
         echo PHP_EOL;
