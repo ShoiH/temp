@@ -1,0 +1,7 @@
+Controllerの役割
+
+・Controllerに記述された指定のActionを実行し、ModelまたはViewに対し必要なデータを渡す。
+
+ControllerとRoutingの役割
+
+・Routing側はアクセスされたURLに基づいてRoutingファイルに記述されたルールで振り分けを行い、Controller側で指定CのActionを実行する。
